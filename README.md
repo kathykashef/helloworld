@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-this is my git lecture
+#Hello, We are learning css
